@@ -1,0 +1,153 @@
+
+@font-face { 
+     font-family: 'fredokaone-regular-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/fredokaone-regular-0.ttf-/fredokaone-regular_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-black-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-black-0.ttf-/prompt-black_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-blackitalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-blackitalic-0.ttf-/prompt-blackitalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-bold-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-bold-0.ttf-/prompt-bold_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-bolditalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-bolditalic-0.ttf-/prompt-bolditalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-extrabold-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-extrabold-0.ttf-/prompt-extrabold_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-extrabolditalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-extrabolditalic-0.ttf-/prompt-extrabolditalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-extralight-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-extralight-0.ttf-/prompt-extralight_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-extralightitalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-extralightitalic-0.ttf-/prompt-extralightitalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-italic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-italic-0.ttf-/prompt-italic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-light-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-light-0.ttf-/prompt-light_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-lightitalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-lightitalic-0.ttf-/prompt-lightitalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-medium-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-medium-0.ttf-/prompt-medium_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-mediumitalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-mediumitalic-0.ttf-/prompt-mediumitalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-regular-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-regular-0.ttf-/prompt-regular_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-semibold-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-semibold-0.ttf-/prompt-semibold_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-semibolditalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-semibolditalic-0.ttf-/prompt-semibolditalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-thin-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-thin-0.ttf-/prompt-thin_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'prompt-thinitalic-0.ttf-';
+     src:    url('http://staging.polluxcoop.com/wp-content/uploads/avia_fonts/type_fonts/prompt-thinitalic-0.ttf-/prompt-thinitalic_0.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+
+
+.editor-block-list__block,
+.editor-block-list__block p {background-color:#ffffff; color:#000000;}
+.editor-block-list__block h1,
+.editor-block-list__block h2,
+.editor-block-list__block h3,
+.editor-block-list__block h4,
+.editor-block-list__block h5,
+.editor-block-list__block h6 {color:#000000;}
+.editor-post-title__block textarea {color:#000000; background-color:#ffffff;}
+.editor-block-list__block a,
+.editor-block-list__block strong,
+.editor-block-list__block b,
+.editor-block-list__block b a,
+.editor-block-list__block strong a {color:#719430;}
+.editor-block-list__block .wp-block-heading,
+.editor-post-title__block textarea {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
+.editor-block-list__block {font-family:'helvetica neue', 'HelveticaNeue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
