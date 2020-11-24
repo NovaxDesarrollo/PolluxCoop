@@ -9,3 +9,26 @@ License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: seofy
 */
+@font-face { 
+font-family: Fredoka One Regular; 
+src: url(http://coop/wp-content/themes/seofy/fonts/FredokaOne-Regular.ttf); 
+font-weight: normal; 
+	}
+
+@font-face { 
+font-family: Bahnschrift Regular; 
+src: url(http://coop/wp-content/themes/seofy/fonts/bahnschrift.ttf); 
+font-weight: normal; 
+	}
+
+@font-face { 
+font-family:Miriam libre Bold; 
+src: url(http://coop/wp-content/themes/seofy/MiriamLibre-Bold.otf); 
+font-weight: normal; 
+	}
+
+@font-face { 
+font-family:Miriam libre Regular; 
+src: url(http://coop/wp-content/themes/seofy/MiriamLibre-Regular.otf); 
+font-weight: normal; 
+	}
